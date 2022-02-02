@@ -1,2 +1,7 @@
 __pycache__
 server
+bin
+include
+lib
+lib64
+*.cfg
